@@ -1,14 +1,14 @@
 #leap year python git test
 
-# the viribale i is used to store data and update after each while loop
+# the variable i is used to store data and update after each while loop
 i = 0
-#this will ask user input then convert the number to string
+#this will ask for user input and then convert the number to a string
 year = int(input("Year:"))
 
 #used to store the year and add 1
 y = year
 
-#while test if it leap year
+#The while loop will check if it leap year
 while True:
     y = y + 1 
     
